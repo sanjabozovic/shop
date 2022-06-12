@@ -18,9 +18,9 @@ Takođe postoji tabela UseCaseLogs gde se čuva koji korisnik je izvršio koju k
 
 ## Logovanje
 
-Admin: markovic@gmail.com, sifra123
+Admin: sanja.bozovic4@gmail.com, sifra123
 
-Korisnik: jelena@gmail.com, sifra123
+Korisnik: tambozovic@gmail.com, sifra123
 
 
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tamara\\Desktop\\shop\\shop.Application\\shop.Application.csproj": {}
+    "C:\\Users\\Tamara\\Documents\\GitHub\\shop\\shop.Application\\shop.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tamara\\Desktop\\shop\\shop.Application\\shop.Application.csproj": {
+    "C:\\Users\\Tamara\\Documents\\GitHub\\shop\\shop.Application\\shop.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tamara\\Desktop\\shop\\shop.Application\\shop.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Tamara\\Documents\\GitHub\\shop\\shop.Application\\shop.Application.csproj",
         "projectName": "shop.Application",
-        "projectPath": "C:\\Users\\Tamara\\Desktop\\shop\\shop.Application\\shop.Application.csproj",
+        "projectPath": "C:\\Users\\Tamara\\Documents\\GitHub\\shop\\shop.Application\\shop.Application.csproj",
         "packagesPath": "C:\\Users\\Tamara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tamara\\Desktop\\shop\\shop.Application\\obj\\",
+        "outputPath": "C:\\Users\\Tamara\\Documents\\GitHub\\shop\\shop.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tamara\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Tamara\\Desktop\\shop\\shop.Domain\\shop.Domain.csproj": {
-                "projectPath": "C:\\Users\\Tamara\\Desktop\\shop\\shop.Domain\\shop.Domain.csproj"
+              "C:\\Users\\Tamara\\Documents\\GitHub\\shop\\shop.Domain\\shop.Domain.csproj": {
+                "projectPath": "C:\\Users\\Tamara\\Documents\\GitHub\\shop\\shop.Domain\\shop.Domain.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\Tamara\\Desktop\\shop\\shop.Domain\\shop.Domain.csproj": {
+    "C:\\Users\\Tamara\\Documents\\GitHub\\shop\\shop.Domain\\shop.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tamara\\Desktop\\shop\\shop.Domain\\shop.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Tamara\\Documents\\GitHub\\shop\\shop.Domain\\shop.Domain.csproj",
         "projectName": "shop.Domain",
-        "projectPath": "C:\\Users\\Tamara\\Desktop\\shop\\shop.Domain\\shop.Domain.csproj",
+        "projectPath": "C:\\Users\\Tamara\\Documents\\GitHub\\shop\\shop.Domain\\shop.Domain.csproj",
         "packagesPath": "C:\\Users\\Tamara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tamara\\Desktop\\shop\\shop.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Tamara\\Documents\\GitHub\\shop\\shop.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tamara\\AppData\\Roaming\\NuGet\\NuGet.Config",

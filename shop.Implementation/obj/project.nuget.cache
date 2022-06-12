@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yzBSSrvuDC6xQo+MihJLd92FHNTZ4wggNIf2FDE8O7gFH/YHzx7I+OAbSsGlQclwyuvadRMqrFgZ7xYbNKfN5w==",
+  "dgSpecHash": "7fbRCn2HuNmz7ckjIMylIf6e9tg7wxBfcdWZ9Qe8FWGF/3JuZ98OXN5XVfTJo45VkPB7AtU9lfEWpa5zAsxkiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tamara\\Desktop\\shop\\shop.Implementation\\shop.Implementation.csproj",
+  "projectFilePath": "C:\\Users\\Tamara\\Documents\\GitHub\\shop\\shop.Implementation\\shop.Implementation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tamara\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\Tamara\\.nuget\\packages\\fluentvalidation\\10.2.3\\fluentvalidation.10.2.3.nupkg.sha512",

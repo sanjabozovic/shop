@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eIuoThQaHJdXFtzAc785hREgCYDqDqt1SW1R89vOm8z9ADCGzUQEjGlnBAaimLUSp+aYDdPX5+dZdW6+evdHhg==",
+  "dgSpecHash": "V9+jPkxIQH0ChPii/X/iv+EHEpwGN2dIvUmwMdqXsKBy59hBF8ErGHEcvyu2eERPJeKt0PO87qqM8o9Ob4IoFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tamara\\Desktop\\shop\\shop.DataAccess\\shop.EfDataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Tamara\\Documents\\GitHub\\shop\\shop.DataAccess\\shop.EfDataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tamara\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Tamara\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

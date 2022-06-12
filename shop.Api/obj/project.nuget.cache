@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "++74x62W2D9e9pHhOdH2+pAAB2EDIk91fha3vbVDm143Mm5zHaaCWxZYobTwhzK5nUutXYPPHfH/j/LIJebsXA==",
+  "dgSpecHash": "9j+EK+WbsrSt0kE7ISow+G4fabDL/X+Z/SQ8Z1ObMVWJWwzHIS4nfFqjTtl49sq1dNVb/td7E+T3Ih/EEXSXYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tamara\\Desktop\\shop\\shop.Api\\shop.Api.csproj",
+  "projectFilePath": "C:\\Users\\Tamara\\Documents\\GitHub\\shop\\shop.Api\\shop.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tamara\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\Tamara\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2o7Opl4JPPy+mBJ415aBDGrRUOJMH963V23a2cJ/aOb57f2pjlIu1udgger5nDGj3VHS6jJ0eOKh+gmZhjX8xg==",
+  "dgSpecHash": "bGXwWuFy/63YgFZmNodcC9EpXMRraUUAIT/A9XikoiK2Ojnk7QdI3bggWVbt9tLSGzoftv+AGa/PYBmgLD+ptw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tamara\\Desktop\\shop\\shop.Application\\shop.Application.csproj",
+  "projectFilePath": "C:\\Users\\Tamara\\Documents\\GitHub\\shop\\shop.Application\\shop.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tamara\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\Tamara\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",

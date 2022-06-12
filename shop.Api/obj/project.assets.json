@@ -5793,11 +5793,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tamara\\Desktop\\shop\\shop.Api\\shop.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Tamara\\Documents\\GitHub\\shop\\shop.Api\\shop.Api.csproj",
       "projectName": "shop.Api",
-      "projectPath": "C:\\Users\\Tamara\\Desktop\\shop\\shop.Api\\shop.Api.csproj",
+      "projectPath": "C:\\Users\\Tamara\\Documents\\GitHub\\shop\\shop.Api\\shop.Api.csproj",
       "packagesPath": "C:\\Users\\Tamara\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tamara\\Desktop\\shop\\shop.Api\\obj\\",
+      "outputPath": "C:\\Users\\Tamara\\Documents\\GitHub\\shop\\shop.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tamara\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5814,17 +5814,17 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Tamara\\Desktop\\shop\\shop.Application\\shop.Application.csproj": {
-              "projectPath": "C:\\Users\\Tamara\\Desktop\\shop\\shop.Application\\shop.Application.csproj"
+            "C:\\Users\\Tamara\\Documents\\GitHub\\shop\\shop.Application\\shop.Application.csproj": {
+              "projectPath": "C:\\Users\\Tamara\\Documents\\GitHub\\shop\\shop.Application\\shop.Application.csproj"
             },
-            "C:\\Users\\Tamara\\Desktop\\shop\\shop.DataAccess\\shop.EfDataAccess.csproj": {
-              "projectPath": "C:\\Users\\Tamara\\Desktop\\shop\\shop.DataAccess\\shop.EfDataAccess.csproj"
+            "C:\\Users\\Tamara\\Documents\\GitHub\\shop\\shop.DataAccess\\shop.EfDataAccess.csproj": {
+              "projectPath": "C:\\Users\\Tamara\\Documents\\GitHub\\shop\\shop.DataAccess\\shop.EfDataAccess.csproj"
             },
-            "C:\\Users\\Tamara\\Desktop\\shop\\shop.Domain\\shop.Domain.csproj": {
-              "projectPath": "C:\\Users\\Tamara\\Desktop\\shop\\shop.Domain\\shop.Domain.csproj"
+            "C:\\Users\\Tamara\\Documents\\GitHub\\shop\\shop.Domain\\shop.Domain.csproj": {
+              "projectPath": "C:\\Users\\Tamara\\Documents\\GitHub\\shop\\shop.Domain\\shop.Domain.csproj"
             },
-            "C:\\Users\\Tamara\\Desktop\\shop\\shop.Implementation\\shop.Implementation.csproj": {
-              "projectPath": "C:\\Users\\Tamara\\Desktop\\shop\\shop.Implementation\\shop.Implementation.csproj"
+            "C:\\Users\\Tamara\\Documents\\GitHub\\shop\\shop.Implementation\\shop.Implementation.csproj": {
+              "projectPath": "C:\\Users\\Tamara\\Documents\\GitHub\\shop\\shop.Implementation\\shop.Implementation.csproj"
             }
           }
         }

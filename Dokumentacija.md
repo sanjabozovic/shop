@@ -1,4 +1,4 @@
-# blingOn
+# shop
 ## Tema projekta - Prodavnica prstenja
 
 Projekat je odrađen kao prodavnica prstenja. Svaki prsten mora imati svoj brend i veličinu koju može imati jednu ili više. Ulogovani korisnici mogu napraviti porudžbinu i poručiti proizvode u željenim veličinama i količinama.
